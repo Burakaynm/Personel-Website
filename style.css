@@ -1,0 +1,31 @@
+#top {
+  background-color: #f7e7dc;
+}
+#resume {
+  background-color: #fff8f3;
+}
+#projects {
+  background-color: #fff8f3;
+}
+#footer {
+  background-color: #f7e7dc;
+}
+
+.merienda {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-size: 70px;
+  font-weight: bold;
+  font-style: normal;
+  color: #405d72;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+
+.bottom-cloud {
+  position: relative;
+  left: -350px;
+}
